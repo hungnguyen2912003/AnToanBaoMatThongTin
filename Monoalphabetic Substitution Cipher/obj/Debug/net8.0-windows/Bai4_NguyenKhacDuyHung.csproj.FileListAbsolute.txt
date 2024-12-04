@@ -1,0 +1,16 @@
+E:\AnToanBaoMat\Bai4_NguyenKhacDuyHung\bin\Debug\net8.0-windows\Bai4_NguyenKhacDuyHung.exe
+E:\AnToanBaoMat\Bai4_NguyenKhacDuyHung\bin\Debug\net8.0-windows\Bai4_NguyenKhacDuyHung.deps.json
+E:\AnToanBaoMat\Bai4_NguyenKhacDuyHung\bin\Debug\net8.0-windows\Bai4_NguyenKhacDuyHung.runtimeconfig.json
+E:\AnToanBaoMat\Bai4_NguyenKhacDuyHung\bin\Debug\net8.0-windows\Bai4_NguyenKhacDuyHung.dll
+E:\AnToanBaoMat\Bai4_NguyenKhacDuyHung\bin\Debug\net8.0-windows\Bai4_NguyenKhacDuyHung.pdb
+E:\AnToanBaoMat\Bai4_NguyenKhacDuyHung\obj\Debug\net8.0-windows\ChuongTrinhPhaMa.Form1.resources
+E:\AnToanBaoMat\Bai4_NguyenKhacDuyHung\obj\Debug\net8.0-windows\Bai4_NguyenKhacDuyHung.csproj.GenerateResource.cache
+E:\AnToanBaoMat\Bai4_NguyenKhacDuyHung\obj\Debug\net8.0-windows\Bai4_NguyenKhacDuyHung.GeneratedMSBuildEditorConfig.editorconfig
+E:\AnToanBaoMat\Bai4_NguyenKhacDuyHung\obj\Debug\net8.0-windows\Bai4_NguyenKhacDuyHung.AssemblyInfoInputs.cache
+E:\AnToanBaoMat\Bai4_NguyenKhacDuyHung\obj\Debug\net8.0-windows\Bai4_NguyenKhacDuyHung.AssemblyInfo.cs
+E:\AnToanBaoMat\Bai4_NguyenKhacDuyHung\obj\Debug\net8.0-windows\Bai4_NguyenKhacDuyHung.csproj.CoreCompileInputs.cache
+E:\AnToanBaoMat\Bai4_NguyenKhacDuyHung\obj\Debug\net8.0-windows\Bai4_NguyenKhacDuyHung.dll
+E:\AnToanBaoMat\Bai4_NguyenKhacDuyHung\obj\Debug\net8.0-windows\refint\Bai4_NguyenKhacDuyHung.dll
+E:\AnToanBaoMat\Bai4_NguyenKhacDuyHung\obj\Debug\net8.0-windows\Bai4_NguyenKhacDuyHung.pdb
+E:\AnToanBaoMat\Bai4_NguyenKhacDuyHung\obj\Debug\net8.0-windows\Bai4_NguyenKhacDuyHung.genruntimeconfig.cache
+E:\AnToanBaoMat\Bai4_NguyenKhacDuyHung\obj\Debug\net8.0-windows\ref\Bai4_NguyenKhacDuyHung.dll

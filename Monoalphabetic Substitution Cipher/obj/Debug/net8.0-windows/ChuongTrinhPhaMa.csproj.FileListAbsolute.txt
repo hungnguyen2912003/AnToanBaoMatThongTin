@@ -1,0 +1,16 @@
+E:\AnToanBaoMat\ChuongTrinhPhaMa\bin\Debug\net8.0-windows\ChuongTrinhPhaMa.exe
+E:\AnToanBaoMat\ChuongTrinhPhaMa\bin\Debug\net8.0-windows\ChuongTrinhPhaMa.deps.json
+E:\AnToanBaoMat\ChuongTrinhPhaMa\bin\Debug\net8.0-windows\ChuongTrinhPhaMa.runtimeconfig.json
+E:\AnToanBaoMat\ChuongTrinhPhaMa\bin\Debug\net8.0-windows\ChuongTrinhPhaMa.dll
+E:\AnToanBaoMat\ChuongTrinhPhaMa\bin\Debug\net8.0-windows\ChuongTrinhPhaMa.pdb
+E:\AnToanBaoMat\ChuongTrinhPhaMa\obj\Debug\net8.0-windows\ChuongTrinhPhaMa.Form1.resources
+E:\AnToanBaoMat\ChuongTrinhPhaMa\obj\Debug\net8.0-windows\ChuongTrinhPhaMa.csproj.GenerateResource.cache
+E:\AnToanBaoMat\ChuongTrinhPhaMa\obj\Debug\net8.0-windows\ChuongTrinhPhaMa.GeneratedMSBuildEditorConfig.editorconfig
+E:\AnToanBaoMat\ChuongTrinhPhaMa\obj\Debug\net8.0-windows\ChuongTrinhPhaMa.AssemblyInfoInputs.cache
+E:\AnToanBaoMat\ChuongTrinhPhaMa\obj\Debug\net8.0-windows\ChuongTrinhPhaMa.AssemblyInfo.cs
+E:\AnToanBaoMat\ChuongTrinhPhaMa\obj\Debug\net8.0-windows\ChuongTrinhPhaMa.csproj.CoreCompileInputs.cache
+E:\AnToanBaoMat\ChuongTrinhPhaMa\obj\Debug\net8.0-windows\ChuongTrinhPhaMa.dll
+E:\AnToanBaoMat\ChuongTrinhPhaMa\obj\Debug\net8.0-windows\refint\ChuongTrinhPhaMa.dll
+E:\AnToanBaoMat\ChuongTrinhPhaMa\obj\Debug\net8.0-windows\ChuongTrinhPhaMa.pdb
+E:\AnToanBaoMat\ChuongTrinhPhaMa\obj\Debug\net8.0-windows\ChuongTrinhPhaMa.genruntimeconfig.cache
+E:\AnToanBaoMat\ChuongTrinhPhaMa\obj\Debug\net8.0-windows\ref\ChuongTrinhPhaMa.dll
