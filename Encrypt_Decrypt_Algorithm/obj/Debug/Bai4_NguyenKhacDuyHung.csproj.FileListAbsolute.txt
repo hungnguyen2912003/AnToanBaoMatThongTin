@@ -1,0 +1,10 @@
+E:\AnToanBaoMat\Ma_Hoa_Doi_Xung_Hien_Dai\Bai4_NguyenKhacDuyHung\bin\Debug\Bai4_NguyenKhacDuyHung.exe.config
+E:\AnToanBaoMat\Ma_Hoa_Doi_Xung_Hien_Dai\Bai4_NguyenKhacDuyHung\bin\Debug\Bai4_NguyenKhacDuyHung.exe
+E:\AnToanBaoMat\Ma_Hoa_Doi_Xung_Hien_Dai\Bai4_NguyenKhacDuyHung\bin\Debug\Bai4_NguyenKhacDuyHung.pdb
+E:\AnToanBaoMat\Ma_Hoa_Doi_Xung_Hien_Dai\Bai4_NguyenKhacDuyHung\obj\Debug\Bai4_NguyenKhacDuyHung.csproj.AssemblyReference.cache
+E:\AnToanBaoMat\Ma_Hoa_Doi_Xung_Hien_Dai\Bai4_NguyenKhacDuyHung\obj\Debug\Bai4_NguyenKhacDuyHung.Form1.resources
+E:\AnToanBaoMat\Ma_Hoa_Doi_Xung_Hien_Dai\Bai4_NguyenKhacDuyHung\obj\Debug\Bai4_NguyenKhacDuyHung.Properties.Resources.resources
+E:\AnToanBaoMat\Ma_Hoa_Doi_Xung_Hien_Dai\Bai4_NguyenKhacDuyHung\obj\Debug\Bai4_NguyenKhacDuyHung.csproj.GenerateResource.cache
+E:\AnToanBaoMat\Ma_Hoa_Doi_Xung_Hien_Dai\Bai4_NguyenKhacDuyHung\obj\Debug\Bai4_NguyenKhacDuyHung.csproj.CoreCompileInputs.cache
+E:\AnToanBaoMat\Ma_Hoa_Doi_Xung_Hien_Dai\Bai4_NguyenKhacDuyHung\obj\Debug\Bai4_NguyenKhacDuyHung.exe
+E:\AnToanBaoMat\Ma_Hoa_Doi_Xung_Hien_Dai\Bai4_NguyenKhacDuyHung\obj\Debug\Bai4_NguyenKhacDuyHung.pdb
